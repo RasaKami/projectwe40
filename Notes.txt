@@ -1,1 +1,6 @@
 laba diena du kartus
+dar vienas puslapiukas workshop3.
+
+ir dar vienas ant new-lnes branch.
+
+tie du buvo sukurti ant master - sitas ant new-line
